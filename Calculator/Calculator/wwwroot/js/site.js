@@ -3,6 +3,10 @@
     document.getElementById("mainForm").addEventListener("submit", submitAjax);
 });
 function displayVal(val) {
+    //clear single 0
+    if (document.getElementById("display").value == "0" && !isKeyValidOperation(val)) {
+        clearDisplay();
+    }
     document.getElementById("display").value += val;
 }
 function clearDisplay() {
@@ -23,9 +27,6 @@ function handleKeyDown(event) {
         case "5": case "6": case "7": case "8":
         case "9": case "0": case "+": case "-":
         case "*": case "/": case ".":
-            //clear single 0
-            if (document.getElementById("display").value == "0" && !isKeyValidOperation(event.key))
-                clearDisplay();
             displayVal(event.key);
             break;
         case "Backspace": case "Delete":
