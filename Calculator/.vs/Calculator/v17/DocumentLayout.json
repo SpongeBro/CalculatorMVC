@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|c:\\users\\oem\\desktop\\calculatormvc\\calculator\\calculator\\managers\\calculationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\managers\\calculationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\managers\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\managers\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\data\\calculationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\data\\calculationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\data\\icalculationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\data\\icalculationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\unittests\\calculationmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\unittests\\calculationmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\managers\\icalculationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\managers\\icalculationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\calculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF3BCDBD-F098-45EF-8DB3-741D5A135294}|Calculator\\Calculator.csproj|solutionrelative:calculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Calculator\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Calculator\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:13:18.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculationManager.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Managers\\CalculationManager.cs",
+              "RelativeDocumentMoniker": "Calculator\\Managers\\CalculationManager.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Managers\\CalculationManager.cs",
+              "RelativeToolTip": "Calculator\\Managers\\CalculationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:56:07.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICalculationManager.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Managers\\ICalculationManager.cs",
+              "RelativeDocumentMoniker": "Calculator\\Managers\\ICalculationManager.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Managers\\ICalculationManager.cs",
+              "RelativeToolTip": "Calculator\\Managers\\ICalculationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:45:06.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Calculator\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Calculator\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:48:33.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Calculator\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Calculator\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-12T16:47:33.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T17:43:55.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T16:44:31.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T17:43:36.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Data\\CalculationRepository.cs",
+              "RelativeDocumentMoniker": "Calculator\\Data\\CalculationRepository.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Data\\CalculationRepository.cs",
+              "RelativeToolTip": "Calculator\\Data\\CalculationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:53:40.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICalculationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Data\\ICalculationRepository.cs",
+              "RelativeDocumentMoniker": "Calculator\\Data\\ICalculationRepository.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Data\\ICalculationRepository.cs",
+              "RelativeToolTip": "Calculator\\Data\\ICalculationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:54:27.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Managers\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "Calculator\\Managers\\ErrorHandler.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Managers\\ErrorHandler.cs",
+              "RelativeToolTip": "Calculator\\Managers\\ErrorHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:36:13.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Calculator\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Calculator\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwEYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T17:11:10.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculationManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\UnitTests\\CalculationManagerTests.cs",
+              "RelativeDocumentMoniker": "Calculator\\UnitTests\\CalculationManagerTests.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\UnitTests\\CalculationManagerTests.cs",
+              "RelativeToolTip": "Calculator\\UnitTests\\CalculationManagerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:07:40.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Models\\Calculation.cs",
+              "RelativeDocumentMoniker": "Calculator\\Models\\Calculation.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Models\\Calculation.cs",
+              "RelativeToolTip": "Calculator\\Models\\Calculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:17:44.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\appsettings.json",
+              "RelativeDocumentMoniker": "Calculator\\appsettings.json",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\appsettings.json",
+              "RelativeToolTip": "Calculator\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T17:43:25.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:51:51.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Calculator\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Calculator\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T17:42:39.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Calculator\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\OEM\\Desktop\\CalculatorMVC\\Calculator\\Calculator\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Calculator\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T17:43:54.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

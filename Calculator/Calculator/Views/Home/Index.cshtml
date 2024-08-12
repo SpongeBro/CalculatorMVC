@@ -1,0 +1,60 @@
+﻿@model Calculator.Models.Calculation
+@{
+    ViewData["Title"] = "Kalkulačka";
+}
+
+<!--asp-action="Index"-->
+<div id="main">
+<form asp-action="Calculate" id="mainForm">
+    <table id="calc">
+        <tr>
+            <td colspan="4"><input asp-for="Result" type="text" id="display" name="Expression" readonly></td>
+        </tr>
+        <tr>
+            <td colspan="3" id="validationErrorTd"><span class="text-danger" id="validationError"></span></td>
+            <td colspan="1" id="decimalCheckTd"><input type="checkbox" name="Decimal" id="decimalCheck" > Celá čísla</td>
+        </tr>
+        <tr>
+            <td><input type="button" value="1" onclick="displayVal('1')"></td>
+            <td><input type="button" value="2" onclick="displayVal('2')"></td>
+            <td><input type="button" value="3" onclick="displayVal('3')"></td>
+            <td><input type="button" id="operationBtn" value="+" onclick="displayVal('+')"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="4" onclick="displayVal('4')"></td>
+            <td><input type="button" value="5" onclick="displayVal('5')"></td>
+            <td><input type="button" value="6" onclick="displayVal('6')"></td>
+            <td><input type="button" id="operationBtn" value="-" onclick="displayVal('-')"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="7" onclick="displayVal('7')"></td>
+            <td><input type="button" value="8" onclick="displayVal('8')"></td>
+            <td><input type="button" value="9" onclick="displayVal('9')"></td>
+            <td><input type="button" id="operationBtn" value="*" onclick="displayVal('*')"></td>
+        </tr>
+        <tr>
+            <td><input type="button" value="0" onclick="displayVal('0')"></td>
+            <td><input type="button" value="." onclick="displayVal('.')"></td>
+            <td><input type="button" id="clearBtn" value="C" onclick="clearDisplay()"></td>
+            <td><input type="button" id="operationBtn" value="/" onclick="displayVal('/')"></td>
+        </tr>
+        <tr>
+            <td colspan="4"><input type="submit" id="submitBtn" value="Spočítat"></td>
+        </tr>
+
+    </table>
+</form>
+</div>
+
+<div id="historyBlock">
+    <strong>Historie:</strong>
+    <hr>
+    <div id="history">
+    <p>
+    @foreach (var row in ViewBag.History) {
+            <div>@row</div>
+        }
+    </p>
+    </div>
+</div>
+<div class="clear"></div>

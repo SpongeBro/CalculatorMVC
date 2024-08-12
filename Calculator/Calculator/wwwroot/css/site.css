@@ -1,0 +1,93 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  margin-top: 2em;
+}
+
+#main {
+    float: left;
+    padding-right: 3em;
+}
+
+table {
+    border: 1px solid black;
+    margin-left: auto;
+}
+
+table td {
+    padding: 10px;
+}
+
+#validationErrorTd {
+    padding: 0 0 0 10px;
+}
+
+#display {
+    text-align: right;
+    font-size: 3em;
+    padding: 5px;
+    border: 5px solid;
+}
+
+input[type="button"] {
+    background-color: white;
+    width: 100%;
+    padding: 20px 40px;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    border: 0.5px solid;
+    border-radius: 5px;
+    border-color: grey;
+}
+input[type="button"]:hover {
+    background-color: lightgray;
+}
+
+#operationBtn {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#clearBtn {
+    background-color: turquoise;
+    color: white;
+}
+
+#submitBtn {
+    width: 100%;
+    background-color: crimson;
+    color: white;
+    border: none;
+    padding: 20px 0 20px 0;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#history > div{
+    padding: 2px 0 2px 0;
+}
+#decimalCheckTd{
+    padding: 0 15px 0 0px;
+    float: right;
+}
+.clear {
+    clear: both;
+}
