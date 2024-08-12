@@ -17,7 +17,6 @@ namespace Calculator.Tests
             m_repository = new Mock<ICalculationRepository>();
             m_errorHandler = new Mock<Action<Exception>>();
             m_manager = new CalculationManager(m_repository.Object, m_errorHandler.Object);
-            m_errorHandler.Verify(x => x(It.IsAny<Exception>()), Times.Never);
         }
 
         [Theory]
@@ -30,6 +29,7 @@ namespace Calculator.Tests
             Calculation calc = new Calculation() { Expression = expression};
             m_manager.ProcessCalculation(calc);
             Assert.Equal(calc.Result, expected);
+            m_errorHandler.Verify(x => x(It.IsAny<Exception>()), Times.Never);
         }
         [Theory]
         [InlineData("2.1+1", "3", false)]
