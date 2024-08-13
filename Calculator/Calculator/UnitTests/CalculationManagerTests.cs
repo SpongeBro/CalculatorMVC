@@ -65,5 +65,14 @@ namespace Calculator.Tests
             Assert.Equal("Chyba - dělení nulou.", exception.Message);
             m_errorHandler.Verify(x => x(It.Is<Exception>(ex => ex is DivideByZeroException)), Times.Once);
         }
+
+        [Fact]
+        public void ProcessCalculation_EmptyExpression()
+        {
+            Calculation calc = new Calculation() { Expression = "" };
+            var exception = Assert.Throws<ArgumentException>(() => m_manager.ProcessCalculation(calc));
+            Assert.Equal("Výraz nemůže být prázdný.", exception.Message);
+            m_errorHandler.Verify(x => x(It.Is<Exception>(ex => ex is ArgumentException)), Times.Once);
+        }
     }
 }

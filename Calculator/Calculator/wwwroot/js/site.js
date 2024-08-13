@@ -1,20 +1,20 @@
-﻿document.addEventListener("DOMContentLoaded", function () {
+﻿const displayElement = document.getElementById("display");
+document.addEventListener("DOMContentLoaded", function () {
     document.addEventListener("keydown", handleKeyDown);
     document.getElementById("mainForm").addEventListener("submit", submitAjax);
 });
 function displayVal(val) {
     //clear single 0
-    if (document.getElementById("display").value == "0" && !isKeyValidOperation(val)) {
+    if (displayElement.value == "0" && !isKeyValidOperation(val)) {
         clearDisplay();
     }
-    document.getElementById("display").value += val;
+    displayElement.value += val;
 }
 function clearDisplay() {
-    document.getElementById("display").value = "";
+    displayElement.value = "";
 }
 function removeLastCh() {
-    var display = document.getElementById("display");
-    display.value = display.value.slice(0, -1);
+    displayElement.value = displayElement.value.slice(0, -1);
 }
 function isKeyValidOperation(key) {
     return key == "." || key == "+" ||
@@ -42,7 +42,8 @@ function handleKeyDown(event) {
 }
 function submitAjax(event) {
     event.preventDefault();
-    var expression = document.getElementById("display").value;
+    const errorElement = document.getElementById("validationError");
+    var expression = displayElement.value;
     var decimal = document.getElementById("decimalCheck").checked;
     fetch("/Home/Calculate", {
         method: "POST",
@@ -54,8 +55,8 @@ function submitAjax(event) {
     .then(response => response.json())
     .then(data => {
         if (data.success) {
-            document.getElementById("validationError").innerHTML = "";
-            document.getElementById("display").value = data.result;
+            errorElement.innerHTML = "";
+            displayElement.value = data.result;
             var historyHTML = "<p>";
             data.history.forEach(function (item) {
                 historyHTML += "<div>" + item + "</div>";
@@ -64,8 +65,7 @@ function submitAjax(event) {
             document.getElementById("history").innerHTML = historyHTML;
         }
         else {
-            var errorHtml = data.errors;
-            document.getElementById("validationError").innerHTML = errorHtml;
+            errorElement.innerHTML = data.errors;
         }
     })
     .catch(error => {
